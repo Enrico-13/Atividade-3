@@ -1,0 +1,10 @@
+Utilizando Análise de Variância (ANOVA), verificar se os experimentos 
+de blocos interamente casualizados a seguir apresentaram diferenças:
+
+
+
+
+produtividade de laranja;
+produtividade de cana;
+peso do bezerro à época do desmame;
+produtividade de espinafre.
