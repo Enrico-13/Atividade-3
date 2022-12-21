@@ -1,4 +1,5 @@
 # Configurando pasta de trabalho para fácil acesso aos arquivos
+
 PATH <- "D:/Users/enric/Desktop/Pós Facens/Estatística/Aula 3/Atividade-3/Dados"
 setwd(PATH)
 
